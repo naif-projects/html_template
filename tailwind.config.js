@@ -12,7 +12,7 @@ module.exports = {
       },
 
       fontFamily: {
-        qutfit: ["'Outfit'", 'sans-serif'],
+        primary: ["'Outfit'", 'sans-serif'],
       },
     },
   },
