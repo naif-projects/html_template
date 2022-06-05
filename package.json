@@ -1,0 +1,18 @@
+{
+  "name": "html_template",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@csstools/normalize.css": "^12.0.0"
+  }
+}
