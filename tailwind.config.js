@@ -3,16 +3,17 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary-light': 'hsl(215, 32%, 27%)',
-        'primary-base': 'hsl(216, 50%, 16%)',
-        'primary-dark': 'hsl(217, 54%, 11%)',
+        'primary-light': 'color_here',
+        'primary-base': 'color_here',
+        'primary-dark': 'color_here',
 
-        'secondary-light': 'hsl(215, 51%, 70%)',
-        'secondary-base': 'hsl(178, 100%, 50%)',
+        'secondary-light': 'color_here',
+        'secondary-base': 'color_here',
+        'secondary-dark': 'color_here',
       },
 
       fontFamily: {
-        primary: ["'Outfit'", 'sans-serif'],
+        primary: ["'custom_font_here'", 'sans-serif'],
       },
     },
   },
